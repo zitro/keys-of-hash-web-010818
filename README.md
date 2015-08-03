@@ -22,7 +22,7 @@ class Hash
 end
 ```
 
-Ruby will understand the the Hash class already exists and that you are modifying/adding to it. 
+Ruby will understand that the Hash class already exists and that you are modifying/adding to it. 
 
 ### Danger!
 
