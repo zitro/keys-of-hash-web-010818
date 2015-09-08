@@ -35,5 +35,4 @@ This method should take an an undefined number of arguments, using the splat ope
 
 ## Resources
 
-* [Runtime-Era Blog](http://www.runtime-era.com) - [Monkey Patching](http://www.runtime-era.com/2012/12/reopen-and-modify-ruby-classes-monkey.html)
 * [The Strange Ruby Splat](https://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
