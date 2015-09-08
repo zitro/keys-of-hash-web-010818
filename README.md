@@ -34,6 +34,4 @@ You'll be coding your solution in `lib/keys_of_hash.rb`. You'll fill out the con
 This method should take an an undefined number of arguments, using the splat operator, and return an array with every key from the hash whose value matches the value(s) given as an argument. 
 
 ## Resources
-
-* [Runtime-Era Blog](http://www.runtime-era.com) - [Monkey Patching](http://www.runtime-era.com/2012/12/reopen-and-modify-ruby-classes-monkey.html)
 * [The Strange Ruby Splat](https://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
