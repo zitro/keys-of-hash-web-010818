@@ -35,3 +35,5 @@ This method should take an an undefined number of arguments, using the splat ope
 
 ## Resources
 * [The Strange Ruby Splat](https://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
+
+<a href='https://learn.co/lessons/keys-of-hash' data-visibility='hidden'>View this lesson on Learn.co</a>
