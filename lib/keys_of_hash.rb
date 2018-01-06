@@ -1,10 +1,8 @@
 class Hash
   def keys_of(*arguments)
     # code goes here
-    arguments.map do |i|
-      if *arguments !== nil
-        newKey << arguments
-        newKey
+        map {|key, value| *arguments.include?(value) ? key : nil }.compact
+      end
       end
 end
 end
