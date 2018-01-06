@@ -4,5 +4,3 @@ class Hash
         map {|key, value| *arguments.include?(value) ? key : nil }.compact
       end
       end
-end
-end
