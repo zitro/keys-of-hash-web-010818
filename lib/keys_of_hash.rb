@@ -5,5 +5,6 @@ class Hash
       if *arguments !== nil
         newKey << *arguments
         newKey
+      end
 end
 end
